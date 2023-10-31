@@ -1,0 +1,9 @@
+.Background{
+    position:absolute;
+    align-items: center;
+    height: 20%;
+    width: 20%;
+    background-color: rgba(0, 0, 255, 0.541);
+    padding: 200px;
+    border-radius: 20px;
+}

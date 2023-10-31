@@ -1,0 +1,12 @@
+.warning{
+    display: none;
+    position:absolute;
+    padding: 100px;
+    width: 30%;
+    margin: 50px;
+    margin-top: 200px;
+    height: 0%;
+    background-color: darkred;
+    font-size: 25px;
+    color: white;
+}
